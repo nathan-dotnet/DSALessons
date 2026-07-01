@@ -1,0 +1,14 @@
+C:\Users\nathaniel-lucero\Desktop\practice\DSALesson\bin\Debug\net10.0\DSALesson.exe
+C:\Users\nathaniel-lucero\Desktop\practice\DSALesson\bin\Debug\net10.0\DSALesson.deps.json
+C:\Users\nathaniel-lucero\Desktop\practice\DSALesson\bin\Debug\net10.0\DSALesson.runtimeconfig.json
+C:\Users\nathaniel-lucero\Desktop\practice\DSALesson\bin\Debug\net10.0\DSALesson.dll
+C:\Users\nathaniel-lucero\Desktop\practice\DSALesson\bin\Debug\net10.0\DSALesson.pdb
+C:\Users\nathaniel-lucero\Desktop\practice\DSALesson\obj\Debug\net10.0\DSALesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nathaniel-lucero\Desktop\practice\DSALesson\obj\Debug\net10.0\DSALesson.AssemblyInfoInputs.cache
+C:\Users\nathaniel-lucero\Desktop\practice\DSALesson\obj\Debug\net10.0\DSALesson.AssemblyInfo.cs
+C:\Users\nathaniel-lucero\Desktop\practice\DSALesson\obj\Debug\net10.0\DSALesson.csproj.CoreCompileInputs.cache
+C:\Users\nathaniel-lucero\Desktop\practice\DSALesson\obj\Debug\net10.0\DSALesson.dll
+C:\Users\nathaniel-lucero\Desktop\practice\DSALesson\obj\Debug\net10.0\refint\DSALesson.dll
+C:\Users\nathaniel-lucero\Desktop\practice\DSALesson\obj\Debug\net10.0\DSALesson.pdb
+C:\Users\nathaniel-lucero\Desktop\practice\DSALesson\obj\Debug\net10.0\DSALesson.genruntimeconfig.cache
+C:\Users\nathaniel-lucero\Desktop\practice\DSALesson\obj\Debug\net10.0\ref\DSALesson.dll
