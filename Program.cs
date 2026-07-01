@@ -12,46 +12,21 @@ FirstDuplicateCharacter.Run();
 
 
 
+// Given a string, find the FIRST character that appears more than once.
 
+    // Input:  "swiss"
+    // Output: 's'   (appears at index 0 and index 3)
 
+    // Dictionary<char, int> counts = new Dictionary<char, int>();
 
+    // // Add or update
+    // counts['a'] = 5;
 
-//Given an array, find the largest EVEN number.
-
-    // int[] nums = {3, 8, 1, 4, 6, 7};   // expect 8
-
-    // int even = 0; 
-
-    // for (int i = 0; i < nums.Length; i++)
+    // // Check if a key exists
+    // if (counts.ContainsKey('a'))
     // {
-    //     if (nums[i] % 2 == 0 && nums[i] > even)
-    //     {
-    //        even = nums[i];
-    //     }
+    //     Console.WriteLine("found it");
     // }
-
-    // Console.WriteLine(even);
-
-
-
-
-// //Given an array, count how many EVEN numbers are in it.
-
-    // int[] nums = {3, 8, 1, 4, 6, 7};
-    // //Expected output: 3   (8, 4, 6 are even)
-
-    // int even = 0;
-
-    // for (int i = 0; i < nums.Length; i++)
-    // {
-    //     if (nums[i] % 2 == 0)
-    //     {
-    //        even = even + 1;
-    //     }
-    // }
-
-    // Console.WriteLine(even);
-
 
 
 
