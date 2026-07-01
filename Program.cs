@@ -6,43 +6,12 @@
 // CountEvenNumbers.Run();
 // LargestNumber.Run();
 // SumArray.Run();
-// FirstDuplicateCharacter.Run();
-// string h = "hello";
-    // Dictionary<char, int> counts = new Dictionary<char, int>();
-
-    // for (int i = 0; i < h.Length; i++)
-    // {
-    //     char currentChar = h[i];
-
-    //     if (counts.ContainsKey(currentChar))
-    //     {
-    //         Console.WriteLine(currentChar);
-    //         break;
-    //     }
-    //     else
-    //     {
-    //         counts[currentChar] = 1; 
-    //     }
-    // }
+FirstDuplicateCharacter.Run();
 
 
 
 
-// Given a string, find the FIRST character that appears more than once.
 
-    // Input:  "swiss"
-    // Output: 's'   (appears at index 0 and index 3)
-
-    // Dictionary<char, int> counts = new Dictionary<char, int>();
-
-    // // Add or update
-    // counts['a'] = 5;
-
-    // // Check if a key exists
-    // if (counts.ContainsKey('a'))
-    // {
-    //     Console.WriteLine("found it");
-    // }
 
 
 
