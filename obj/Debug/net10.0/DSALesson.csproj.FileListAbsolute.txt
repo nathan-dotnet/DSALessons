@@ -12,3 +12,4 @@ C:\Users\nathaniel-lucero\Desktop\practice\DSALesson\obj\Debug\net10.0\refint\DS
 C:\Users\nathaniel-lucero\Desktop\practice\DSALesson\obj\Debug\net10.0\DSALesson.pdb
 C:\Users\nathaniel-lucero\Desktop\practice\DSALesson\obj\Debug\net10.0\DSALesson.genruntimeconfig.cache
 C:\Users\nathaniel-lucero\Desktop\practice\DSALesson\obj\Debug\net10.0\ref\DSALesson.dll
+C:\Users\nathaniel-lucero\Desktop\practice\DSALesson\obj\Debug\net10.0\DSALesson.sourcelink.json
