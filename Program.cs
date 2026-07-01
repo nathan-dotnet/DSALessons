@@ -9,6 +9,6 @@
 // SensorReadings.Run();
 // SensorCount.Run();
 // FirstDuplicateSensor.Run();
-FirstDuplicateCharacter.Run();
+//FirstDuplicateCharacter.Run();
 
 
