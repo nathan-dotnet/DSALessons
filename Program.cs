@@ -10,6 +10,7 @@
 // SensorCount.Run();
 // FirstDuplicateSensor.Run();
 //FirstDuplicateCharacter.Run();
-SlidingWindow.Run();
+// SlidingWindow.Run();
+TwoPointers.Run();
 
 

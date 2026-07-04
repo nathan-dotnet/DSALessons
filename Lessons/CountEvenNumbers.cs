@@ -20,7 +20,7 @@ namespace DSALesson.Lessons
             {
                 if (nums[i] % 2 == 0)
                 {
-                   even = even + 1;
+                    even = even + 1;
                 }
             }
 
