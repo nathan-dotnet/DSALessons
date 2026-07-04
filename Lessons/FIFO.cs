@@ -38,6 +38,23 @@ namespace DSALesson.Lessons
                 string current = alertQueue.Dequeue();
                 Console.WriteLine($"Processing: " + current);
             }
+
+            Stack<string> alertStack = new Stack<string>();
+
+            alertStack.Push("S1:High Temp");
+            alertStack.Push("S2:Low Pressure");
+            alertStack.Push("S3:Vibration");
+            alertStack.Push("S1:Overheat");
+
+            alertStack.Pop();
+
+            Console.WriteLine("--- Acknowledged Alerts ---");
+
+            while (alertStack.Count > 0)
+            {
+                string lastAction = alertStack.Pop();
+                Console.WriteLine("Acknowledged: " + lastAction);
+            }
         }
     }
 }
