@@ -11,6 +11,7 @@
 // FirstDuplicateSensor.Run();
 //FirstDuplicateCharacter.Run();
 // SlidingWindow.Run();
-TwoPointers.Run();
+// TwoPointers.Run();
+FIFO.Run();
 
 
