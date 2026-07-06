@@ -12,6 +12,7 @@
 //FirstDuplicateCharacter.Run();
 // SlidingWindow.Run();
 // TwoPointers.Run();
-FIFO.Run();
+// FIFO.Run();
+LINQ.Run();
 
 
