@@ -1,4 +1,4 @@
-# DSALesson
+# CSharpLesson
 
 A simple .NET console application containing basic data structures and algorithms practice exercises.
 
