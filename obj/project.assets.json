@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nathaniel-lucero\\Desktop\\practice\\DSALesson\\DSALesson.csproj",
-      "projectName": "DSALesson",
-      "projectPath": "C:\\Users\\nathaniel-lucero\\Desktop\\practice\\DSALesson\\DSALesson.csproj",
+      "projectUniqueName": "C:\\Users\\nathaniel-lucero\\Desktop\\practice\\CSharpLesson\\CSharpLesson.csproj",
+      "projectName": "CSharpLesson",
+      "projectPath": "C:\\Users\\nathaniel-lucero\\Desktop\\practice\\CSharpLesson\\CSharpLesson.csproj",
       "packagesPath": "C:\\Users\\nathaniel-lucero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nathaniel-lucero\\Desktop\\practice\\DSALesson\\obj\\",
+      "outputPath": "C:\\Users\\nathaniel-lucero\\Desktop\\practice\\CSharpLesson\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",

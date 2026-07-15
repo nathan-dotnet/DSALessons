@@ -1,4 +1,5 @@
-﻿using DSALesson.Lessons;
+﻿using DSALesson.Lessons;       
+using CSharpLesson.OOPLessons;
 
 // Choose which lesson to run
 
@@ -14,6 +15,7 @@
 // TwoPointers.Run();
 // FIFO.Run();
 // LINQ.Run();
-await Async.Run();
+// await Async.Run();
 
+Encapsulation.Run();
 

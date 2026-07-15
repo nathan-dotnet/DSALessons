@@ -1,0 +1,15 @@
+C:\Users\nathaniel-lucero\Desktop\practice\CSharpLesson\obj\Debug\net10.0\CSharpLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nathaniel-lucero\Desktop\practice\CSharpLesson\obj\Debug\net10.0\CSharpLesson.AssemblyInfoInputs.cache
+C:\Users\nathaniel-lucero\Desktop\practice\CSharpLesson\obj\Debug\net10.0\CSharpLesson.AssemblyInfo.cs
+C:\Users\nathaniel-lucero\Desktop\practice\CSharpLesson\obj\Debug\net10.0\CSharpLesson.csproj.CoreCompileInputs.cache
+C:\Users\nathaniel-lucero\Desktop\practice\CSharpLesson\obj\Debug\net10.0\CSharpLesson.sourcelink.json
+C:\Users\nathaniel-lucero\Desktop\practice\CSharpLesson\bin\Debug\net10.0\CSharpLesson.exe
+C:\Users\nathaniel-lucero\Desktop\practice\CSharpLesson\bin\Debug\net10.0\CSharpLesson.deps.json
+C:\Users\nathaniel-lucero\Desktop\practice\CSharpLesson\bin\Debug\net10.0\CSharpLesson.runtimeconfig.json
+C:\Users\nathaniel-lucero\Desktop\practice\CSharpLesson\bin\Debug\net10.0\CSharpLesson.dll
+C:\Users\nathaniel-lucero\Desktop\practice\CSharpLesson\bin\Debug\net10.0\CSharpLesson.pdb
+C:\Users\nathaniel-lucero\Desktop\practice\CSharpLesson\obj\Debug\net10.0\CSharpLesson.dll
+C:\Users\nathaniel-lucero\Desktop\practice\CSharpLesson\obj\Debug\net10.0\refint\CSharpLesson.dll
+C:\Users\nathaniel-lucero\Desktop\practice\CSharpLesson\obj\Debug\net10.0\CSharpLesson.pdb
+C:\Users\nathaniel-lucero\Desktop\practice\CSharpLesson\obj\Debug\net10.0\CSharpLesson.genruntimeconfig.cache
+C:\Users\nathaniel-lucero\Desktop\practice\CSharpLesson\obj\Debug\net10.0\ref\CSharpLesson.dll
